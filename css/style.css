@@ -20,5 +20,10 @@ figcaption {
 }
 
 .milk-text{
-    font: "elsie swash caps", cursive;
+    font: "elsie swash caps", cursive bold;
+
+}
+
+.logo h2{
+
 }
