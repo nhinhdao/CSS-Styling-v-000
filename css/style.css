@@ -32,7 +32,7 @@ figcaption {
 }
 
 nav a:hover, div p:hover{
-    text-decoration: underline;
+    color: green;
 }
 
 nav a:active{
