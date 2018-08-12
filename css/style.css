@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Modern+Antiqua');
+@import url('https://fonts.googleapis.com/css?family=Abel');
 /* this is a single line/mutiple line comments in CSS */
 p {
     font-size: 1em;
     line-height: 1.5em;
+    font-family: Abel; 
 }
 
 figcaption {
