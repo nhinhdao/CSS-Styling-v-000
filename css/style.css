@@ -23,6 +23,7 @@ figcaption {
 .milk-text{
     font: "elsie swash caps", cursive bold;
     color: green;
+    text-shadow: 0 2px 3px;
 }
 
 #logo h2{
