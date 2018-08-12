@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Modern+Antiqua');
 @import url('https://fonts.googleapis.com/css?family=Abel');
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
 /* this is a single line/mutiple line comments in CSS */
 p {
     font-size: 1em;
     line-height: 1.5em;
-    font-family: Abel; 
+    font-family: Abel;
 }
 
 figcaption {
@@ -16,4 +17,8 @@ figcaption {
 #logo{
     font-family: "Modern Antiqua", cursive;
     font-weight: bold;
+}
+
+.milk-text{
+    font: normal 1em/1.5em "elsie swash caps", cursive;
 }
