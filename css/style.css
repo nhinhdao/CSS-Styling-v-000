@@ -31,7 +31,7 @@ figcaption {
     color: blue;
 }
 
-nav a:hover{
+nav a:hover, div p:hover{
     text-decoration: underline;
 }
 
