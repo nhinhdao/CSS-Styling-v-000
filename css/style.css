@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Modern+Antiqua');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
+/* this is a single line/mutiple line comments in CSS */
+p {
+    font-size: 1em;
+    line-height: 1.5em;
+    font-family: Abel;
+}
+
+figcaption {
+    font: normal 1em/1.5em Georgia, serif;
+    color: grey;
+    text-align: justify;;
+}
+
+#logo{
+    font-family: "Modern Antiqua", cursive;
+    font-weight: bold;
+    text-align: center;
+    background: grey;
+}
+
+.milk-text{
+    font: "elsie swash caps", cursive bold;
+    color: black;
+    text-shadow: 0 1px 2px;
+}
+
+#logo h2{
+    color: blue;
+}
+
+nav a:hover, div p:hover{
+    color: green;
+}
+
+nav a:active{
+    color: red;
+}
+
+nav a:link{
+    color: blue;
+}
+
+nav a:visited{
+    color: purple;
+}
