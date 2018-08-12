@@ -30,3 +30,19 @@ figcaption {
 #logo h2{
     color: blue;
 }
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+nav a:active{
+    color: red;
+}
+
+nav a:link{
+    color: blue;
+}
+
+nav a:visited{
+    color: purple;
+}
